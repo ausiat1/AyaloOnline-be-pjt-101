@@ -50,8 +50,8 @@ In progress.
 
 
 ## Social Media links for Team Members
-[Robinson Egbo](https://www.twitter.com/Robeons)
-[Airhienbuwa Osahon](https://www.twitter.com/0sahon)
-[Senaike Oluwatobi Michael](https://www.twitter.com/Nubia_Republic)
-[Adewale Olarewaju](https://www.twitter.com/clefcodex)
-[Ononiwu Maureen Chiamaka](https://www.linkedin/in/maureen-ononiwu-49b3b212a)
+1. [Robinson Egbo](https://www.twitter.com/Robeons)
+2. [Airhienbuwa Osahon](https://www.twitter.com/0sahon)
+3. [Senaike Oluwatobi Michael](https://www.twitter.com/Nubia_Republic)
+4. [Adewale Olarewaju](https://www.twitter.com/clefcodex)
+5. [Ononiwu Maureen Chiamaka](https://www.linkedin/in/maureen-ononiwu-49b3b212a)
