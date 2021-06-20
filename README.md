@@ -47,3 +47,9 @@ Some of the features included in this app:
 
 ## User Guide
 In progress.
+
+SOCIAL MEDIA LINK FOR TEAM MEMBERS
+Robinson Egbo www.twitter.com/Robeons
+Airhienbuwa Osahon www.twitter.com/0sahon
+Senaike Oluwatobi Michael www.twitter.com/Nubia_Republic
+Adewale Olarewaju www.twitter.com/clefcodex
